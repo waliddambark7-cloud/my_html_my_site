@@ -1,0 +1,20 @@
+
+html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>ارتفاع الأسعار</title>
+  <style>
+    h1, h2 {
+      color: red;
+      font-size: 20px;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>ارتفاع الأسعار</h1>
+  <h2>الأسعار في البلاد</h2>
+</body>
+</html>
